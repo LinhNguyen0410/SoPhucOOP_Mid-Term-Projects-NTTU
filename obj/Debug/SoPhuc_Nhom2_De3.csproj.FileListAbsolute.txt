@@ -1,0 +1,19 @@
+C:\Users\Admin\Downloads\SoPhuc_DangHuy 1\SoPhuc_DangHuy\bin\Debug\SoPhuc_DangHuy.exe.config
+C:\Users\Admin\Downloads\SoPhuc_DangHuy 1\SoPhuc_DangHuy\bin\Debug\SoPhuc_DangHuy.exe
+C:\Users\Admin\Downloads\SoPhuc_DangHuy 1\SoPhuc_DangHuy\bin\Debug\SoPhuc_DangHuy.pdb
+C:\Users\Admin\Downloads\SoPhuc_DangHuy 1\SoPhuc_DangHuy\obj\Debug\SoPhuc_Nhom2_De3.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\SoPhuc_DangHuy 1\SoPhuc_DangHuy\obj\Debug\SoPhuc_Nhom2_De3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SoPhuc_DangHuy 1\SoPhuc_DangHuy\obj\Debug\SoPhuc_DangHuy.exe
+C:\Users\Admin\Downloads\SoPhuc_DangHuy 1\SoPhuc_DangHuy\obj\Debug\SoPhuc_DangHuy.pdb
+C:\Users\DELL\Documents\C#_NIIE\SoPhuc_Nhom2_De3\SoPhuc_Nhom2_De3\bin\Debug\SoPhuc_DangHuy.exe.config
+C:\Users\DELL\Documents\C#_NIIE\SoPhuc_Nhom2_De3\SoPhuc_Nhom2_De3\obj\Debug\SoPhuc_DangHuy.exe
+C:\Users\DELL\Documents\C#_NIIE\SoPhuc_Nhom2_De3\SoPhuc_Nhom2_De3\obj\Debug\SoPhuc_DangHuy.pdb
+C:\Users\DELL\Documents\C#_NIIE\SoPhuc_Nhom2_De3\SoPhuc_Nhom2_De3\bin\Debug\SoPhuc_DangHuy.exe
+C:\Users\DELL\Documents\C#_NIIE\SoPhuc_Nhom2_De3\SoPhuc_Nhom2_De3\bin\Debug\SoPhuc_DangHuy.pdb
+C:\Users\DELL\Documents\C#_NIIE\Nhom2_NIIE_De3_ClassSoPhuc\SoPhuc_Nhom2_De3\bin\Debug\SoPhuc_DangHuy.exe.config
+C:\Users\DELL\Documents\C#_NIIE\Nhom2_NIIE_De3_ClassSoPhuc\SoPhuc_Nhom2_De3\obj\Debug\SoPhuc_DangHuy.exe
+C:\Users\DELL\Documents\C#_NIIE\Nhom2_NIIE_De3_ClassSoPhuc\SoPhuc_Nhom2_De3\obj\Debug\SoPhuc_DangHuy.pdb
+C:\Users\DELL\Documents\C#_NIIE\Nhom2_NIIE_De3_ClassSoPhuc\SoPhuc_Nhom2_De3\bin\Debug\SoPhuc_DangHuy.exe
+C:\Users\DELL\Documents\C#_NIIE\Nhom2_NIIE_De3_ClassSoPhuc\SoPhuc_Nhom2_De3\bin\Debug\SoPhuc_DangHuy.pdb
+C:\Users\DELL\Documents\C#_NIIE\Nhom2_NIIE_De3_ClassSoPhuc\SoPhuc_Nhom2_De3\obj\Debug\SoPhuc_Nhom2_De3.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\C#_NIIE\Nhom2_NIIE_De3_ClassSoPhuc\SoPhuc_Nhom2_De3\obj\Debug\SoPhuc_Nhom2_De3.csproj.CoreCompileInputs.cache

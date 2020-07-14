@@ -1,0 +1,6 @@
+D:\OtherProjects\SoPhuc_DangHuy\bin\Debug\SoPhuc_DangHuy.exe.config
+D:\OtherProjects\SoPhuc_DangHuy\bin\Debug\SoPhuc_DangHuy.exe
+D:\OtherProjects\SoPhuc_DangHuy\bin\Debug\SoPhuc_DangHuy.pdb
+D:\OtherProjects\SoPhuc_DangHuy\obj\Debug\SoPhuc_DangHuy.csprojAssemblyReference.cache
+D:\OtherProjects\SoPhuc_DangHuy\obj\Debug\SoPhuc_DangHuy.exe
+D:\OtherProjects\SoPhuc_DangHuy\obj\Debug\SoPhuc_DangHuy.pdb
